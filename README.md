@@ -1,3 +1,3 @@
-# tst
-test
-edition2
+## git-harjoituksia
+
+Harjoitellaan branchien käyttöä
